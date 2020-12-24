@@ -1,0 +1,15 @@
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\bin\Debug\netcoreapp2.1\ConfigurationTest.deps.json
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\bin\Debug\netcoreapp2.1\ConfigurationTest.runtimeconfig.json
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\bin\Debug\netcoreapp2.1\ConfigurationTest.runtimeconfig.dev.json
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\bin\Debug\netcoreapp2.1\ConfigurationTest.dll
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\bin\Debug\netcoreapp2.1\ConfigurationTest.pdb
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\obj\Debug\netcoreapp2.1\ConfigurationTest.csproj.CoreCompileInputs.cache
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\obj\Debug\netcoreapp2.1\ConfigurationTest.RazorAssemblyInfo.cache
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\obj\Debug\netcoreapp2.1\ConfigurationTest.RazorAssemblyInfo.cs
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\obj\Debug\netcoreapp2.1\ConfigurationTest.AssemblyInfoInputs.cache
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\obj\Debug\netcoreapp2.1\ConfigurationTest.AssemblyInfo.cs
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\obj\Debug\netcoreapp2.1\ConfigurationTest.RazorTargetAssemblyInfo.cache
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\obj\Debug\netcoreapp2.1\ConfigurationTest.dll
+C:\Users\akhullar\source\repos\ConfigurationTest\ConfigurationTest\obj\Debug\netcoreapp2.1\ConfigurationTest.pdb
